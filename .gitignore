@@ -1,0 +1,18 @@
+# Project ignores
+*.log
+data
+
+# Editor ignores
+.idea/
+.vscode/
+
+# Python ignores
+poetry.lock
+__pycache__/
+.ipynb_checkpoints
+venv/
+.venv/
+.mypy_cache/
+
+# OS ignores
+.DS_Store
